@@ -106,3 +106,21 @@ Aspiring Java Developer focused on backend systems and clean architecture.
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
+
+
+## 📸 Screenshots
+
+### 🔐 Login
+![Login](images/login.png)
+
+### 📊 Dashboard
+![Dashboard](images/dashboard.png)
+
+### 👤 Patients Management
+![Patients](images/patients.png)
+
+### 📅 Appointments
+![Appointments](images/appointments.png)
+
+### 📦 Doctors Management
+![Inventory](images/doctors.png)
